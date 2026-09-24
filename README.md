@@ -553,13 +553,6 @@ git push origin feature/your-feature
 Then open a pull request.
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## 👨‍💻 Author
 
 **Somiran Dutta**
